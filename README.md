@@ -1,1 +1,1 @@
-MQVC : Market Quality Vendor Convention -> Webapp @ Maruti Suzuki
+MQVC : Market Quality Vendor Convention -> Webapp 
